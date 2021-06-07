@@ -3,7 +3,7 @@ Server nodejs - make 10 seconds MP4 video from screenshot of website
 HOW TO RUN:
 1. Unpack ffmpeg-4.4-full_build.7z
 2. Go to /ffmpeg-4.4-full_build/bin
-3. Copy 3 exe files - ffmpeg/ffprobe.exe to project folder
+3. Copy 2 exe files - ffmpeg/ffprobe.exe to project folder
 4. Open terminal and run npm install pageres
 5. Open terminal and run npm install videoshow
 6. Go to input.json file and insert url - (url:"")
