@@ -1,4 +1,4 @@
-# BIGVU-Project
+# BIGVU-Project - Eliran Gabay
 Server nodejs - make 10 seconds MP4 video from screenshot of website
 HOW TO RUN:
 1. Unpack ffmpeg-4.4-full_build.7z
